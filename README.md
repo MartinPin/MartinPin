@@ -8,7 +8,7 @@
 
 ## 🚀 À propos de moi
 
-Je m’appelle Martin Pineau, un jeune développeur passionné qui a découvert le monde du code au cours de mon parcours en Bac Pro CIEL. Cette découverte a été un vrai déclic : j’ai rapidement été captivé par la création web, le design moderne et la logique du développement.
+Je m’appelle Martin Pineau, je suis un jeune développeur passionné qui a découvert le monde du code au cours de mon parcours en Bac Pro CIEL. Cette découverte a été un vrai déclic : j’ai rapidement été captivé par la création web, le design moderne et la logique du développement.
 
 Depuis, je consacre mon temps libre à apprendre de nouvelles technologies, à expérimenter des projets concrets et à affiner mes compétences en développement front-end. J’aime particulièrement transformer une idée en une interface claire, fluide et esthétique.
 
