@@ -40,7 +40,7 @@ Mon objectif est de devenir développeur full-stack et de participer à la conce
 ### 🔗 [Pole Latino's 49](https://polelatinos49.fr/)  
 Site vitrine réalisé pour une association culturelle locale, avec un design sobre et une navigation intuitive.
 
-### 🌐 [Make Your Website](https://make-your-website.netlify.app/)  
+### 🌐 [Make Your Website](https://make-your-website.vercel.app/)  
 Mon agence de création de sites web et de contenus. J’y propose mes services de développement et de design. *(Projet en cours)*
 
 ### 🧮 [Simple Calculator](https://simple-calculatorrr.netlify.app/)  
