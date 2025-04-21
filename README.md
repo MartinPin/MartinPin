@@ -9,7 +9,9 @@
 ## 🚀 À propos de moi
 
 Je m’appelle Martin Pineau, un jeune développeur passionné qui a découvert le monde du code au cours de mon parcours en Bac Pro CIEL. Cette découverte a été un vrai déclic : j’ai rapidement été captivé par la création web, le design moderne et la logique du développement.
+
 Depuis, je consacre mon temps libre à apprendre de nouvelles technologies, à expérimenter des projets concrets et à affiner mes compétences en développement front-end. J’aime particulièrement transformer une idée en une interface claire, fluide et esthétique.
+
 Mon objectif est de devenir développeur full-stack et de participer à la conception de projets innovants, accessibles et utiles. Toujours enthousiaste à l'idée de relever de nouveaux défis, je cherche constamment à progresser, que ce soit à travers des projets personnels, des collaborations ou des formations.
 
 ---
