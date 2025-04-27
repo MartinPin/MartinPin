@@ -20,7 +20,7 @@ Mon objectif est de devenir développeur full-stack et de participer à la conce
 
 - **Langages :** HTML, CSS, JavaScript  
 - **Frameworks & Librairies :** React, Next.js, Tailwind CSS  
-- **Outils :** Git, GitHub, VS Code, Netlify, Figma, Notion, Outils IA (ex. ChatGPT)
+- **Outils :** Git, GitHub, VS Code, Netlify, Vercel, Figma, Notion, Outils IA (ex. ChatGPT)
 
 ### 🔧 Technologies
 
