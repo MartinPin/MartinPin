@@ -42,7 +42,7 @@ Site vitrine réalisé pour une association culturelle locale, avec un design so
 Mon agence de création de sites web et de contenus. J’y propose mes services de développement et de design.
 
 ### 👔 [Mon Port-Folio](https://pineaumartin.me/)
-Mon Port-Folio est une présentation globale de moi. Que ce soit au niveau des études ou autres...
+Mon Port-Folio est une présentation globale de moi. En passant par ma présentation, mes compétences, mes outils, etc ...
 
 ### 🧮 [Simple Calculator](https://simple-calculatorrr.netlify.app/)  
 Une calculatrice minimaliste développée avec React pour perfectionner mes compétences en gestion d’état et composants.
