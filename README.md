@@ -64,7 +64,7 @@ Projet de fin d’études inspiré de Google Maps. Objectif : proposer une visit
 - 📧 Email : [martinprofessionnel0@gmail.com](mailto:martinprofessionnel0@gmail.com)  
 - 🌐 Portfolio : [pineaumartin.me](https://pineaumartin.me/)  
 - 💼 LinkedIn : [linkedin.com/in/martin-pineau](https://www.linkedin.com/in/martin-pineau/)  
-- 🐙 GitHub : [github.com/MartinPineau](https://github.com/MartinPin)
+- 🐙 GitHub : [github.com/MartinPin](https://github.com/MartinPin)
 
 ---
 
