@@ -47,9 +47,6 @@ Mon Port-Folio est une présentation globale de moi. En passant par ma présenta
 ### 🧮 [Simple Calculator](https://simple-calculatorrr.netlify.app/)  
 Une calculatrice minimaliste développée avec React pour perfectionner mes compétences en gestion d’état et composants.
 
-### 🏫 [Visite virtuelle du Lycée Chevrollier](https://chevrollier-visite-virtuelle.netlify.app/)  
-Projet de fin d’études inspiré de Google Maps. Objectif : proposer une visite interactive du lycée pour les futurs élèves. *(Projet en cours)*
-
 ---
 
 ## 🌍 Langues
