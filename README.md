@@ -47,6 +47,9 @@ Mon Port-Folio est une présentation globale de moi. En passant par ma présenta
 ### 🧮 [Simple Calculator](https://simple-calculatorrr.netlify.app/)  
 Une calculatrice minimaliste développée avec React pour perfectionner mes compétences en gestion d’état et composants.
 
+### 📝 [PlanWise](https://to-do-app-nu-red.vercel.app/)  
+Une application de gestion de tâches minimaliste développée avec React, visant à renforcer mes compétences en gestion d’état, structuration de composants, et expérience utilisateur fluide.
+
 ---
 
 ## 🌍 Langues
