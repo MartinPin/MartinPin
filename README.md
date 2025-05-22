@@ -67,7 +67,5 @@ Une application de gestion de tâches minimaliste développée avec NextJS, Pris
 - 🐙 GitHub : [github.com/MartinPin](https://github.com/MartinPin)
 
 ---
-[![MartinPin GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinPin)](https://github.com/MartinPin/github-readme-stats)
----
 
 ⭐ N'hésite pas à suivre mon travail et à me contacter pour discuter de projets, de collaboration ou tout simplement de code !
