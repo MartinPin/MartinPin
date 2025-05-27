@@ -10,7 +10,7 @@
 
 Salut ! Moi c’est Martin 👋
 
-Je suis en BAC PRO CIEL (Cybersécurité, Informatique et Réseaux) au lycée Chevrollier, et à côté des cours, je code par passion. J’apprends en construisant des projets web modernes avec React, Next.js, TypeScript, MongoDB, Tailwind, etc. 
+Je suis en BAC PRO CIEL (Cybersécurité, Informatique et Réseaux) au lycée Chevrollier, et à côté des cours, je code par passion. J’apprends en construisant des projets web modernes avec React, Next.js, TypeScript, PostgreSQL, Tailwind, etc. 
 
 J’aime comprendre comment ça marche, construire des applis utiles, et écrire du code propre et lisible. Je documente mes projets sur mon site , et je partage mon code sur Github.
 
