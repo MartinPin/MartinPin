@@ -8,17 +8,21 @@
 
 ## 🚀 À propos de moi
 
-Je m’appelle Martin Pineau, je suis un jeune développeur passionné qui a découvert le monde du code au cours de mon parcours en Bac Pro CIEL. Cette découverte a été un vrai déclic : j’ai rapidement été captivé par la création web, le design moderne et la logique du développement.
+Salut ! Moi c’est Martin 👋
 
-Depuis, je consacre mon temps libre à apprendre de nouvelles technologies, à expérimenter des projets concrets et à affiner mes compétences en développement front-end. J’aime particulièrement transformer une idée en une interface claire, fluide et esthétique.
+Je suis en BAC PRO CIEL (Cybersécurité, Informatique et Réseaux) au lycée Chevrollier, et à côté des cours, je code par passion. J’apprends en construisant des projets web modernes avec React, Next.js, TypeScript, MongoDB, Tailwind, etc. 
 
-Mon objectif est de devenir développeur full-stack et de participer à la conception de projets innovants, accessibles et utiles. Toujours enthousiaste à l'idée de relever de nouveaux défis, je cherche constamment à progresser, que ce soit à travers des projets personnels, des collaborations ou des formations.
+J’aime comprendre comment ça marche, construire des applis utiles, et écrire du code propre et lisible. Je documente mes projets sur mon site , et je partage mon code sur Github.
+
+En ce moment, je cherche à gagner en expérience : stages, alternances ou projets en équipe. Je suis curieux, autonome, et j’ai envie d’apprendre encore plus, surtout dans le développement full stack.
+
+N’hésite pas à me contacter ou à jeter un œil à ce que je fais 😉 !
 
 ---
 
 ## 🛠️ Compétences
 
-- **Langages :** HTML, CSS, JavaScript  
+- **Langages :** HTML, CSS, JavaScript, SQL  
 - **Frameworks & Librairies :** React, Next.js, Tailwind CSS, Prisma 
 - **Outils :** Git, GitHub, VS Code, Netlify, Vercel, Figma, Notion, Outils IA (ex. ChatGPT, Github Copilot)
 
@@ -30,6 +34,8 @@ Mon objectif est de devenir développeur full-stack et de participer à la conce
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ---
 
@@ -39,7 +45,7 @@ Mon objectif est de devenir développeur full-stack et de participer à la conce
 Site vitrine réalisé pour une association culturelle locale, avec un design sobre et une navigation intuitive.
 
 ### 🌐 [Make Your Website](https://make-your-website.fr/)  
-Mon agence de création de sites web et de contenus. J’y propose mes services de développement et de design.
+Présentation de ce que je peux apporter à une entreprise. (J'y propose mes services)
 
 ### 👔 [Mon Port-Folio](https://pineaumartin.me/)
 Mon Port-Folio est une présentation globale de moi. En passant par ma présentation, mes compétences, mes outils, etc ...
