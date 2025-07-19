@@ -69,7 +69,7 @@ Une application de gestion de tâches minimaliste développée avec NextJS, Pris
 
 - 📧 Email : [martinprofessionnel0@gmail.com](mailto:martinprofessionnel0@gmail.com)  
 - 🌐 Portfolio : [pineaumartin.me](https://pineaumartin.me/)  
-- 💼 LinkedIn : [linkedin.com/in/martin-pineau](https://www.linkedin.com/in/pineaumartin/)  
+- 💼 LinkedIn : [[linkedin.com/in/pineaumartin](https://www.linkedin.com/in/pineaumartin/)  
 - 🐙 GitHub : [github.com/MartinPin](https://github.com/MartinPin)
 
 ---
