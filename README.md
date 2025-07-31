@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Martin Pineau
 
-🎓 Lycéen en Bac Pro CIEL (Cybersécurité, Informatique et Réseaux Électroniques) à Chevrollier  
-💻 Futur Développeur Full-Stack passionné par le web, le design moderne et l’innovation digitale  
+🎓 Lycéen en Terminale Bac Pro CIEL (Cybersécurité, Informatique et Réseaux Électroniques) au lycée Chevrollier  
+💻 Développeur Full-Stack, je crée des sites web et des outils SaaS pour aider les indépendants et petites structures  
 📍 Basé à Angers
 
 ---
@@ -10,13 +10,13 @@
 
 Salut ! Moi c’est Martin 👋
 
-Je suis en BAC PRO CIEL (Cybersécurité, Informatique et Réseaux) au lycée Chevrollier, et à côté des cours, je code par passion. J’apprends en construisant des projets web modernes avec React, Next.js, TypeScript, PostgreSQL, Tailwind, etc. 
+Je suis en Terminale Bac Pro CIEL (Cybersécurité, Informatique et Réseaux) au lycée Chevrollier. En parallèle de mes études, je développe des sites web et des applications SaaS pour accompagner les indépendants et les petites structures dans leurs projets numériques.
 
-J’aime comprendre comment ça marche, construire des applis utiles, et écrire du code propre et lisible. Je documente mes projets sur mon site , et je partage mon code sur Github.
+J’apprends en construisant des solutions concrètes avec React, Next.js, TypeScript, PostgreSQL, Tailwind, etc. J’aime comprendre comment les choses fonctionnent, créer des outils utiles, et écrire du code clair et bien structuré.
 
-En ce moment, je cherche à gagner en expérience : stages, alternances ou projets en équipe. Je suis curieux, autonome, et j’ai envie d’apprendre encore plus, surtout dans le développement full stack.
+Je partage mes projets sur mon site et sur GitHub. Mon objectif : apprendre en faisant, résoudre des problèmes concrets, et bâtir des produits simples et efficaces.
 
-N’hésite pas à me contacter ou à jeter un œil à ce que je fais 😉 !
+N’hésite pas à me contacter ou à jeter un œil à ce que je fais.
 
 ---
 
@@ -24,7 +24,7 @@ N’hésite pas à me contacter ou à jeter un œil à ce que je fais 😉 !
 
 - **Langages :** HTML, CSS, JavaScript, SQL  
 - **Frameworks & Librairies :** React, Next.js, Tailwind CSS, Prisma 
-- **Outils :** Git, GitHub, VS Code, Netlify, Vercel, Figma, Notion, Outils IA (ex. ChatGPT, Github Copilot)
+- **Outils :** Git, GitHub, Cursor AI, Vercel, Figma, Obsidian , Outils IA (ex. ChatGPT, Claude)
 
 ### 🔧 Technologies
 
